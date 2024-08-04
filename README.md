@@ -3,9 +3,6 @@
 ### Chat Generation
 <img width="1136" alt="Prodigy" src="https://github.com/KRuddra/Symbiote/blob/main/components/Screenshot%202024-08-04%20194520.png">
 
-### Code Generation
-<img width="1136" alt="Codegen" src="https://github.com/Akshat-shah05/Prodigy/assets/133422818/8854a57f-7647-4a4b-95d2-077001e6a5bb">
-
 ## Features ⚙️
 - Authentication with 5+ social logins, handled with Clerk
 - Free and Pro tier options, with free trial and payment settings handled seamlessly with the Stripe API integration
