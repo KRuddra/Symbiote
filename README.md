@@ -1,7 +1,7 @@
 # Symbiote: 🎵🌟 All Your AI Generation Picture needs Packed into one SaaS Platform 🎨🔥
 
 ### Chat Generation
-<img width="1136" alt="Prodigy" src="https://github.com/Akshat-shah05/Prodigy/assets/133422818/74d251dc-06aa-4e24-9602-010e0d45dd57">
+<img width="1136" alt="Prodigy" src="https://github.com/KRuddra/Symbiote/blob/main/components/Screenshot%202024-08-04%20194520.png">
 
 ### Code Generation
 <img width="1136" alt="Codegen" src="https://github.com/Akshat-shah05/Prodigy/assets/133422818/8854a57f-7647-4a4b-95d2-077001e6a5bb">
